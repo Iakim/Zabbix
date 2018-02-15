@@ -9,11 +9,14 @@ Templates
   * [ZBX-WINDOWS-ENVMON](https://github.com/jjmartres/Zabbix/tree/master/zbx-templates/zbx-windows/zbx-windows-envmon) => use zabbix agent to discover and manage environmental Windows based server.
   * [ZBX-WINDOWS-MSSQL](https://github.com/jjmartres/Zabbix/tree/master/zbx-templates/zbx-windows/zbx-windows-mssql) => use zabbix agent to discover and manage SQL server.
   * [ZBX-WINDOWS-IIS](https://github.com/jjmartres/Zabbix/tree/master/zbx-templates/zbx-windows/zbx-windows-iis) => use zabbix agent to discover and manage IIS server.
+  * [ZBX-WINDOWS-TASK](https://github.com/jjmartres/Zabbix/tree/master/zbx-templates/zbx-windows/zbx-windows-task) => use zabbix agent to discover and manage Task Schedules.
+
 
 Requirements
 ------------
 
-All this templates was tested for Zabbix 2.0.0 and higher. Please see individual template for requirements.
+All this templates was tested for Zabbix 2.0.0 and higher. Please see individual template for requirements.*
+The template for Task Scheduled only testing in zabbix 3.x or higher.
 
 License
 -------
